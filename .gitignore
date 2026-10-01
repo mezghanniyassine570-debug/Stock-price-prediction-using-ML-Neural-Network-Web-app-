@@ -1,0 +1,22 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs & Editors
+.vscode/
+.idea/
+.kilo/
+*.swp
+*.swo
+
+# OS artifacts
+.DS_Store
+Thumbs.db
